@@ -1,5 +1,5 @@
-# CONVERSOR
-import colorama
+# CONVERSOR 
+import colorama 
 from colorama import Fore
 colorama.init(autoreset=True)
 while True:
